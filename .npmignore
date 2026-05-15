@@ -1,0 +1,12 @@
+# Exclude build artifacts and dev files from Lambda package
+.aws-sam/
+node_modules/
+*.md
+*.toml
+.gitignore
+.npmignore
+.env
+*.log
+.DS_Store
+NOTES.md
+GUIDE.md
